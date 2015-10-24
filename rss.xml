@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[i-Invested]]></title>
+        <description><![CDATA[i-Invested]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 24 Oct 2015 20:10:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[...where ideas come to life Empowering Innovative Crowds]]></title>
+            <description><![CDATA[<article><h1>...where ideas come to life Empowering Innovative Crowds</h1><p>Do-whatever-you-want high-resolution photo from José Martín on Unsplash.</p><img src="http://images.unsplash.com/reserve/NV0eHnNkQDHA21GC3BAJ_Paris%20Louvr.jpg?q=80&fm=jpg&w=1080&fit=max&s=3ad9c135c93718901e4d4f9b12bf0c91"></article>]]></description>
+            <link>https://unsplash.com/photos/45sjAjSjArQ</link>
+            <guid isPermaLink="false">5badb0d2-0010-40b9-b10e-99db1d908c85</guid>
+            <pubDate>Sat, 24 Oct 2015 20:10:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
