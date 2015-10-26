@@ -4,8 +4,15 @@
         <description><![CDATA[i-Invested]]></description>
         <link>https://thegrid.ai/i-invested/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 20:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 20:07:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/i-invested/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coming Soon]]></title>
+            <description><![CDATA[<article><h1>Coming Soon</h1><p>Do-whatever-you-want high-resolution photo from Vadim Sherbakov on Unsplash.</p><img src="http://images.unsplash.com/3/www.madebyvadim.com.jpg?q=80&fm=jpg&w=1080&fit=max&s=a9dda416197d69be7eda3931c4f7c2af"></article>]]></description>
+            <link>https://thegrid.ai/i-invested/coming-soon/index.html</link>
+            <guid isPermaLink="false">c4bd69e5-58d7-42e8-9d1c-daa51d856c38</guid>
+            <pubDate>Sun, 25 Oct 2015 21:49:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ Categories We Serve]]></title>
             <description><![CDATA[<article><h1> Categories We Serve</h1><p>Do-whatever-you-want high-resolution photo from Luke Chesser on Unsplash.</p><img src="http://images.unsplash.com/photo-1414690165279-49ab0a9a7e66?q=80&fm=jpg&w=1080&fit=max&s=d4f4228b7e8af748da0c1d24e701b433"></article>]]></description>
@@ -40,20 +47,6 @@
             <link>https://unsplash.com/photos/S_mEIfXRzIk</link>
             <guid isPermaLink="false">715f5ca1-73d6-44dc-b575-0ff29523ebb0</guid>
             <pubDate>Sun, 25 Oct 2015 20:45:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photo by Vadim Sherbakov | Unsplash]]></title>
-            <description><![CDATA[<article><h1>Photo by Vadim Sherbakov | Unsplash</h1><p>Do-whatever-you-want high-resolution photo from Vadim Sherbakov on Unsplash.</p><img src="http://images.unsplash.com/3/www.madebyvadim.com.jpg?q=80&fm=jpg&w=1080&fit=max&s=a9dda416197d69be7eda3931c4f7c2af"></article>]]></description>
-            <link>https://unsplash.com/photos/tCICLJ5ktBE</link>
-            <guid isPermaLink="false">c4bd69e5-58d7-42e8-9d1c-daa51d856c38</guid>
-            <pubDate>Sun, 25 Oct 2015 20:45:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ Featured in]]></title>
-            <description><![CDATA[<article><h1> Featured in</h1><img src="http://www.i-invested.com/wp-content/uploads/2015/10/InnovateFinance_logo1-e1444340234686-300x104.jpg"></article>]]></description>
-            <link>http://www.i-invested.com/wp-admin/options-general.php?page=seed_cspv4_options</link>
-            <guid isPermaLink="false">4bac2d65-dded-418b-a793-16453a235911</guid>
-            <pubDate>Sat, 24 Oct 2015 20:54:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ Featured in]]></title>
