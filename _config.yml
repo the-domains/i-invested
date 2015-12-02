@@ -1,6 +1,6 @@
 name: i-Invested
 favicon: null
-layout_spectrum: 0.90471
+layout_spectrum: 0.53726
 typography_spectrum: 0.78241
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#a0a0a2'
     - '#141416'
     - '#775b45'
-  brandStrength: 0.5
-  lightness: 0.125
-  saturation: 0.6875
-  rhythmicContrast: 0.5
+  brandStrength: 0.1875
+  lightness: 0.9375
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
