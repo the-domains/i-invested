@@ -7,14 +7,13 @@ inLanguage: null
 starred: true
 keywords: []
 description: Do-whatever-you-want high-resolution photo from Luke Chesser on Unsplash.
-datePublished: '2015-10-24T20:34:13.176Z'
-dateModified: '2015-10-24T20:29:00.290Z'
+datePublished: '2016-07-19T16:12:23.939Z'
+dateModified: '2015-12-03T20:50:59.297Z'
 author: []
 related: []
 app_links: []
 title: "\_Categories We Serve"
 sourcePath: _posts/2015-10-24-photo-by-luke-chesser-or-unsplash.md
-published: true
 authors: []
 publisher:
   name: Unsplash
@@ -25,7 +24,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="http://images.unsplash.com/photo-1414690165279-49ab0a9a7e66?q=80&amp;fm=jpg&amp;w=1080&amp;fit=max&amp;s=d4f4228b7e8af748da0c1d24e701b433" /></article>
+<article style=""><h1>Categories we serve</h1><img src="http://images.unsplash.com/photo-1414690165279-49ab0a9a7e66?q=80&amp;fm=jpg&amp;w=1080&amp;fit=max&amp;s=d4f4228b7e8af748da0c1d24e701b433" /></article>
 
 ### 
 > 
