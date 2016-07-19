@@ -3,14 +3,14 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-24T20:53:59.056Z'
-dateModified: '2015-10-24T20:53:54.261Z'
+datePublished: '2016-07-19T16:08:29.269Z'
+dateModified: '2015-12-03T21:03:05.692Z'
 title: JOIN THE EVOLUTION...
 sourcePath: _posts/2015-10-24-join-the-evolution.md
-published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -22,3 +22,5 @@ _type: Article
 
 ---
 ### JOIN THE EVOLUTION...
+
+https://youtu.be/kvJxX7fk0gI
