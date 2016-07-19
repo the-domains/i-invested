@@ -4,17 +4,16 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://unsplash.com/photos/oMpAz-DN-9I'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Do-whatever-you-want high-resolution photo from Greg Rakozy on Unsplash.
-datePublished: '2015-10-25T20:47:53.768Z'
-dateModified: '2015-10-25T20:47:50.321Z'
+datePublished: '2016-07-19T16:08:35.851Z'
+dateModified: '2015-10-25T20:48:34.628Z'
 author: []
 related: []
 app_links: []
-title: 'Photo by Greg Rakozy | Unsplash'
+title: Photo by Greg Rakozy | Unsplash
 sourcePath: _posts/2015-10-25-photo-by-greg-rakozy-or-unsplash.md
-published: true
 authors: []
 publisher:
   name: Unsplash
