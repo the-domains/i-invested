@@ -2,22 +2,24 @@
 author: []
 related: []
 publisher:
-  url: 'https://unsplash.com'
   name: Unsplash
-  favicon: 'https://static.unsplash.com/favicon.ico'
   domain: unsplash.com
+  url: 'https://unsplash.com'
+  favicon: 'https://static.unsplash.com/favicon.ico'
 keywords: []
 description: Do-whatever-you-want high-resolution photo from Vita Vilcina on Unsplash.
 app_links: []
 isBasedOnUrl: 'https://unsplash.com/photos/0G1r-Cg0zS8'
-title: 'Photo by Vita Vilcina | Unsplash'
-datePublished: '2015-10-25T20:45:15.701Z'
-dateModified: '2015-10-25T20:36:33.951Z'
+title: Photo by Vita Vilcina | Unsplash
+datePublished: '2016-07-19T16:12:27.031Z'
+dateModified: '2015-10-25T20:48:52.331Z'
 sourcePath: _posts/2015-10-25-photo-by-vita-vilcina-or-unsplash.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
